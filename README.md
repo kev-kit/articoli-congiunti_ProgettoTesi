@@ -3,11 +3,11 @@
 
 Progetto di tesi per il corso di laurea in Informatica Umanistica.
 
-## ABSTRACT:
+## ABSTRACT
 Software per correlare articoli testuali con tematiche simili.
 Il progetto rientra nel campo del *Natural Language Processing* perchè sono utilizzati strumenti di elaborazione del linguaggio naturale per annotare i testi e stabilire le correlazioni.
 
-## FUNZIONAMENTO:
+## FUNZIONAMENTO
 Il software estrae e annota morfo-sintatticamente le informazioni presenti in articoli appartenenti a un corpus prevalentemente monotematico.
 Gli articoli sono stati selezionati dal portale web teatronaurale.it (https://www.teatronaturale.it/).
 
