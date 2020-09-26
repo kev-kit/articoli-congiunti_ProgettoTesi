@@ -1,7 +1,7 @@
 # Progetto di Tesi
 # Articoli congiunti: studio dei risultati di un software per la correlazione di testi con tematiche simili
 
-                                                  --- WORK IN PROGRESS ---
+            --- WORK IN PROGRESS ---
 
 Progetto di tesi per il corso di laurea in Informatica Umanistica.
 
